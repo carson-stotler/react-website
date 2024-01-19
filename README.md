@@ -1,3 +1,7 @@
+# Got Outline of the App from Youtube Video Below -- Personalized it to a local restaurant in my hometown!
+Not fully complete, not done editing some pages and putting all information on the website!  
+[Youtube Guide](https://www.youtube.com/watch?v=I2UBjN5ER4s)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
